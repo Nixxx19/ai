@@ -1,5 +1,14 @@
 # @ai-sdk/workflow
 
+## 2.0.18
+
+### Patch Changes
+
+- 3b6ef0c: fix(workflow): infer configured tool parts in WorkflowAgent UI messages
+- Updated dependencies [8b6b756]
+- Updated dependencies [e07b577]
+  - ai@7.0.88
+
 ## 2.0.17
 
 ### Patch Changes

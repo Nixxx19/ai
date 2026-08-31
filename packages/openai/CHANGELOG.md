@@ -1,5 +1,11 @@
 # @ai-sdk/openai
 
+## 4.0.54
+
+### Patch Changes
+
+- e07b577: feat: add tool calling support to batch
+
 ## 4.0.53
 
 ### Patch Changes
